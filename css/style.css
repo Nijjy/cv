@@ -1,0 +1,30 @@
+#firstimg{
+    /* width: 841px;
+    height: 418px; */
+    /* 841-67 624-194 */
+    background: url(image/test.png) 774px 430px;
+}
+#headtext{
+    max-width: 1487px;
+    color: rgba(0, 0, 0, 1);
+    font-size: 48px;
+    letter-spacing: 0%;
+    text-align: center;
+    font-family: Roboto, sans-serif;
+  }
+
+#buttontext{
+
+        /* display: flex;
+        max-width: 294px;
+        height: 80px;
+        width: 280px;
+        border-radius: 15px;
+        background-color: rgba(99, 109, 111, 1);
+        color: rgba(0, 0, 0, 1);
+        letter-spacing: 0%;
+        text-align: center; */
+        font-size: 24px;
+        font-family: Roboto, sans-serif;
+      
+}
